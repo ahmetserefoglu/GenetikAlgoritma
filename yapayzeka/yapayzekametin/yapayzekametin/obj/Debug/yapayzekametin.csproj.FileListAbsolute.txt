@@ -1,0 +1,9 @@
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\bin\Debug\yapayzekametin.exe.config
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\bin\Debug\yapayzekametin.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\bin\Debug\yapayzekametin.pdb
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.Form1.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.exe
+c:\users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.pdb
+C:\Users\ahmet\documents\visual studio 2012\Projects\yapayzekametin\yapayzekametin\obj\Debug\yapayzekametin.csprojResolveAssemblyReference.cache
